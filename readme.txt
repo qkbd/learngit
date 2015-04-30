@@ -6,3 +6,5 @@ haha
 yes
 
 creat a new branch is quick.
+
+Creating a branch si quick and simple.
