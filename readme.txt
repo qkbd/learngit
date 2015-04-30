@@ -12,3 +12,5 @@ Creat a new branch si quick & simple.
 =======
 Creating a branch si quick and simple.
 >>>>>>> feature1
+
+qk add
